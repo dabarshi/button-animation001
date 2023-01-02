@@ -3,3 +3,22 @@
     margin: 0;
     padding: 0;
 }
+
+header{
+    text-align: center;
+}
+
+h1 {
+    margin: 20px auto;
+}
+
+.btn-container {
+    margin: 5% auto;
+    text-align: center;
+}
+
+.custom-btn {
+    width: 130px;
+    height: 55px;
+    font-weight: bold;
+}

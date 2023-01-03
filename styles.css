@@ -22,3 +22,17 @@ h1 {
     height: 55px;
     font-weight: bold;
 }
+
+.btn-1 {
+    border: transparent;
+    border-radius: 5px;
+    color: white;
+    outline: none;
+    transition: all 0.3 ease;
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 41%, rgba(0,212,255,1) 100%);
+}
+
+.btn-1 :hover {
+    font-size: large;  
+}
